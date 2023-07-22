@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_age">Age</string>
+    <string name="student_stream">Stream</string>
+</resources>
